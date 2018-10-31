@@ -1,1 +1,1 @@
-# Compiler_Experiment
+﻿# Compiler_ExperimentC#实现可视化词法分析器，递归下降语法分析器，SLR(1)语法分析器，赋值语句与while循环语句的中间代码生成，具体实验内容在实验指导书中。可视化界面有mark到的比较好用的行号实现方式（○|￣|_ ）实现的
